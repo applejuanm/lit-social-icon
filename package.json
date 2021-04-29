@@ -1,0 +1,29 @@
+{
+  "name": "lit-social-icon",
+  "version": "1.0.0",
+  "description": "Web Component for create social icons, based on LitElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applejuanm/lit-social-icon.git"
+  },
+  "keywords": [
+    "javascript",
+    "webcomponents",
+    "CSS3",
+    "html5",
+    "litelement"
+  ],
+  "author": "JuanMiguel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/applejuanm/lit-social-icon/issues"
+  },
+  "homepage": "https://github.com/applejuanm/lit-social-icon#readme",
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  }
+}
