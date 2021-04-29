@@ -1,6 +1,6 @@
 {
   "name": "lit-social-icon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web Component for create social icons, based on LitElement",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/applejuanm/lit-social-icon#readme",
   "dependencies": {
     "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^2.5.0"
   }
 }
